@@ -18,7 +18,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="R4J M1SHRA",
+    page_title="MASOOM",
     page_icon="🔥",
     layout="wide",
     initial_sidebar_state="expanded"
